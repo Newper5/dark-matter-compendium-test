@@ -1,19 +1,96 @@
 {
   "name": "dark-matter-compendium",
-  "title": "Dark Matter Compendium",
-  "description": "",
+  "title": "Dark Matter Compendiums",
+  "description": "A Dark Matter W.I.P.",
   "author": "CSMcFarland#6471",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumCoreVersion": "0.7.8",
   "compatibleCoreVersion": "0.7.8",
-  "system": "dnd5e",
+  "system": ["dnd5e"],
   "packs": [
     {
-      "name": "dark-matter-items",
-      "label": "Dark Matter Items",
-      "system": "dnd5e",
-      "path": "./packs/dark-matter-items.db",
-      "entity": "Item"
+      "name": "monsters",
+      "label": "Dark Matter Monsters",
+      "path": "./packs/monsters.db",
+      "entity": "Actor",
+      "module": "dark-matter-compendium"
+    },
+    {
+      "name": "armor",
+      "label": "Dark Matter Armor",
+      "path": "./packs/armor.db",
+      "entity": "Item",
+      "module": "dark-matter-compendium"
+    },
+    {
+      "name": "classes",
+      "label": "Dark Matter Classes",
+      "path": "./packs/classes.db",
+      "entity": "Item",
+      "module": "dark-matter-compendium"
+    },
+    {
+      "name": "equipment",
+      "label": "Dark Matter Equipment",
+      "path": "./packs/equipment.db",
+      "entity": "Item",
+      "module": "dark-matter-compendium"
+    },
+    {
+      "name": "feats",
+      "label": "Dark Matter Features",
+      "path": "./packs/feats.db",
+      "entity": "Item",
+      "module": "dark-matter-compendium"
+    },
+    {
+      "name": "monster-feats",
+      "label": "Dark Matter Monster Features",
+      "path": "./packs/monster-feats.db",
+      "entity": "Item",
+      "module": "dark-matter-compendium"
+    },
+    {
+      "name": "weapons",
+      "label": "Dark Matter Weapons",
+      "path": "./packs/weapons.db",
+      "entity": "Item",
+      "module": "dark-matter-compendium"
+    },
+    {
+      "name": "journals",
+      "label": "Dark Matter Rules",
+      "path": "./packs/rules.db",
+      "entity": "JournalEntry",
+      "module": "dark-matter-compendium"
+    },
+    {
+      "name": "macros",
+      "label": "Dark Matter Macros",
+      "path": "./packs/macros.db",
+      "entity": "Macro",
+      "module": "dark-matter-compendium"
+    },
+    {
+      "name": "music",
+      "label": "Dark Matter Music",
+      "path": "./packs/music.db",
+      "entity": "Playlist",
+      "module": "dark-matter-compendium"
+    },
+    {
+      "name": "rolltables",
+      "label": "Dark Matter Roll Tables",
+      "path": "./packs/rolltables.db",
+      "entity": "RollTable",
+      "module": "dark-matter-compendium"
+    },
+    {
+      "name": "scenes",
+      "label": "Dark Matter Scenes",
+      "path": "./packs/scenes.db",
+      "entity": "Scene",
+      "module": "dark-matter-compendium"
     }
   ],
   "url": "https://gitlab.com/csmcfarland/dark-matter-compendium",
