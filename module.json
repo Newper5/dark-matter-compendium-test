@@ -11,9 +11,9 @@
     {
       "name": "dark-matter-items",
       "label": "Dark Matter Items",
-      "system": "dnd5e",
       "path": "./packs/dark-matter-items.db",
-      "entity": "Item"
+      "entity": "Item",
+      "module": "dark-matter-compendium"
     }
   ],
   "url": "https://gitlab.com/csmcfarland/dark-matter-compendium",
