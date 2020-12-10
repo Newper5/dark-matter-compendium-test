@@ -1,0 +1,23 @@
+{
+  "name": "dark-matter-compendium",
+  "title": "Dark Matter Compendium",
+  "description": "",
+  "author": "CSMcFarland#6471",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.7.8",
+  "compatibleCoreVersion": "0.7.8",
+  "system": "dnd5e",
+  "packs": [
+    {
+      "name": "dark-matter-items",
+      "label": "Dark Matter Items",
+      "system": "dnd5e",
+      "path": "./packs/dark-matter-items.db",
+      "entity": "Item"
+    }
+  ],
+  "url": "https://gitlab.com/csmcfarland/dark-matter-compendium",
+  "manifest": "https://gitlab.com/csmcfarland/dark-matter-compendium/raw/master/module.json",
+  "download": "https://gitlab.com/csmcfarland/dark-matter-compendium/-/archive/master/dark-matter-compendium-master.zip",
+  "readme": "README.md"
+}
