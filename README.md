@@ -1,4 +1,7 @@
 # Dark Matter Compendium
+A module for [Foundry VTT](https://foundryvtt.com/) that adds content specific
+to the [Dark Matter](https://darkmatter.magehandpress.com/) setting created by
+[Mage Hand Press](https://store.magehandpress.com/).
 
 ## Contributing
 
@@ -6,7 +9,8 @@ You should be familiar with
 [this process](https://foundryvtt.com/article/compendium/). Adding new content
 to this compendium requires that you be a little familiar with git, with
 copying files on the system where Foundry VTT is running, and with Foundry VTT
-itself. You will also need a GitLab account.
+itself. You will also need a GitLab account. Bonus points if you are familiar
+with [git lfs](https://docs.gitlab.com/ee/topics/git/lfs/).
 
 ### Setting Up
 1. Clone this repository. You will be creating branches, pushing them, and
