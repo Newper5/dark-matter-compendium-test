@@ -16,6 +16,13 @@
       "module": "dark-matter-compendium"
     },
     {
+	    "name": "prebuilts",
+	    "label": "Dark Matter Prebuilts",
+	    "path": "./packs/prebuilts.db",
+	    "entity": "Actor",
+	    "modele": "dark-matter-compendium"
+    },
+    {
       "name": "armor",
       "label": "Dark Matter Armor",
       "path": "./packs/armor.db",
