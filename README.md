@@ -19,7 +19,7 @@ with [git lfs](https://docs.gitlab.com/ee/topics/git/lfs/).
 
 ### Creating Content
 1. Create items, actors, scenes, etc.
-2. Make sure the art you use is added to the art subdirectory in the module
+2. Make sure the art you use is added to the images subdirectory of the module
   filesystem.
 3. Unlock the corresponding compendium. There will be warnings.
 4. Drag and drop your content to the compendium.
@@ -31,3 +31,10 @@ with [git lfs](https://docs.gitlab.com/ee/topics/git/lfs/).
   corresponding location in this project.
 4. Add, commit, and push your changes.
 5. Open a merge request in the GitLab web interface and assign it to someone.
+
+## Dependencies
+
+* This module uses the [Dark Matter System Extensions](https://gitlab.com/csmcfarland/dme)
+* (Optional)The [Game-icons.net](https://github.com/datdamnzotz/icons/blob/master/README-FoundryVTT.md)
+  add-on adds 3800 icons at {User Data}/modules/game-icons-net. I find the "whitetransparent"
+  icons look the best, but YMMV. (Added by @Android8675#9424)
