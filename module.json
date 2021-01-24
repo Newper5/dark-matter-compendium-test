@@ -10,98 +10,98 @@
   "packs": [
     {
 	"name": "monsters",
-	"label": "DaM Monsters",
+	"label": "Dark Matter Monsters",
 	"path": "./packs/monsters.db",
 	"entity": "Actor",
 	"module": "dark-matter-compendium"
     },
     {
 	"name": "prebuilts",
-	"label": "DaM Prebuilt PCs",
+	"label": "Dark Matter Prebuilt PCs",
 	"path": "./packs/prebuilts.db",
 	"entity": "Actor",
 	"modele": "dark-matter-compendium"
     },
     {
 	"name": "armor",
-	"label": "DaM Armor",
+	"label": "Dark Matter Armor",
 	"path": "./packs/armor.db",
 	"entity": "Item",
 	"module": "dark-matter-compendium"
     },
     {
 	"name": "classes",
-	"label": "DaM Classes",
+	"label": "Dark Matter Classes",
 	"path": "./packs/classes.db",
 	"entity": "Item",
 	"module": "dark-matter-compendium"
     },
     {
 	"name": "equipment",
-	"label": "DaM Equipment",
+	"label": "Dark Matter Equipment",
 	"path": "./packs/equipment.db",
 	"entity": "Item",
 	"module": "dark-matter-compendium"
     },
     {
 	"name": "feats",
-	"label": "DaM Features",
+	"label": "Dark Matter Features",
 	"path": "./packs/feats.db",
 	"entity": "Item",
 	"module": "dark-matter-compendium"
     },
     {
 	"name": "spells",
-	"label": "DaM Spells",
+	"label": "Dark Matter Spells",
 	"path": "./packs/spells.db",
 	"entity": "Item",
 	"module": "dark-matter-compendium"
     },
     {
 	"name": "monster-feats",
-	"label": "DaM Monster Features",
+	"label": "Dark Matter Monster Features",
 	"path": "./packs/monster-feats.db",
 	"entity": "Item",
 	"module": "dark-matter-compendium"
     },
     {
 	"name": "weapons",
-	"label": "DaM Weapons",
+	"label": "Dark Matter Weapons",
 	"path": "./packs/weapons.db",
 	"entity": "Item",
 	"module": "dark-matter-compendium"
     },
     {
 	"name": "journals",
-	"label": "DaM Rules",
+	"label": "Dark Matter Rules",
 	"path": "./packs/rules.db",
 	"entity": "JournalEntry",
 	"module": "dark-matter-compendium"
     },
     {
 	"name": "macros",
-	"label": "DaM Macros",
+	"label": "Dark Matter Macros",
 	"path": "./packs/macros.db",
 	"entity": "Macro",
 	"module": "dark-matter-compendium"
     },
     {
 	"name": "music",
-	"label": "DaM Music",
+	"label": "Dark Matter Music",
 	"path": "./packs/music.db",
 	"entity": "Playlist",
 	"module": "dark-matter-compendium"
     },
     {
 	"name": "rolltables",
-	"label": "DaM Roll Tables",
+	"label": "Dark Matter Roll Tables",
 	"path": "./packs/rolltables.db",
 	"entity": "RollTable",
 	"module": "dark-matter-compendium"
     },
     {
 	"name": "scenes",
-	"label": "DaM Scenes",
+	"label": "Dark Matter Scenes",
 	"path": "./packs/scenes.db",
 	"entity": "Scene",
 	"module": "dark-matter-compendium"
