@@ -35,6 +35,6 @@ with [git lfs](https://docs.gitlab.com/ee/topics/git/lfs/).
 ## Dependencies
 
 * This module uses the [Dark Matter System Extensions](https://gitlab.com/csmcfarland/dme)
-* (Optional)The [Game-icons.net](https://github.com/datdamnzotz/icons/blob/master/README-FoundryVTT.md)
-  add-on adds 3800 icons at {User Data}/modules/game-icons-net. I find the "whitetransparent"
+* (Optional) The [game-icons.net](https://github.com/datdamnzotz/icons/blob/master/README-FoundryVTT.md)
+  module adds 3800 icons at {User}/modules/game-icons-net. I find the "whitetransparent"
   icons look the best, but YMMV. (Added by @Android8675#9424)
