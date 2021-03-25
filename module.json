@@ -3,9 +3,9 @@
   "title": "Dark Matter Compendiums",
   "description": "A Dark Matter W.I.P.",
   "author": "CSMcFarland#6471",
-  "version": "0.0.8",
-  "minimumCoreVersion": "0.7.8",
-  "compatibleCoreVersion": "0.7.8",
+  "version": "0.0.9",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.7.9",
   "systems": ["dnd5e"],
   "packs": [
     {
@@ -30,6 +30,13 @@
 	"module": "dark-matter-compendium"
     },
     {
+	"name": "backgrounds",
+	"label": "Dark Matter Backgrounds",
+	"path": "./packs/backgrounds.db",
+	"entity": "Item",
+	"module": "dark-matter-compendium"
+    },
+    {
 	"name": "classes",
 	"label": "Dark Matter Classes",
 	"path": "./packs/classes.db",
@@ -47,6 +54,13 @@
 	"name": "feats",
 	"label": "Dark Matter Features",
 	"path": "./packs/feats.db",
+	"entity": "Item",
+	"module": "dark-matter-compendium"
+    },
+    {
+	"name": "races",
+	"label": "Dark Matter Races",
+	"path": "./packs/races.db",
 	"entity": "Item",
 	"module": "dark-matter-compendium"
     },
